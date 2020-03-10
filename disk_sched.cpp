@@ -1,9 +1,3 @@
-/*Disk Scheduling Algorithms Bonus Assignment*/
-/* 
- *Ali Emad 1610052
- *Aya Hany 1610139
- *Salmeen Essam 1610102
- */
 #include <iostream>
 #include <map>
 #include <cstdlib>
