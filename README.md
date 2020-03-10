@@ -1,14 +1,16 @@
 # Disk Scheduling Algorithms
 
 ## First Come First Serve
-
-![fcfs](https://imgur.com/Y0XFqK5)
+![fcfs](fcfs.png) 
 
 ## Shortest Seek Time First
-![sstf](https://imgur.com/NliFggG)
+![sstf](sstf.png)
+
 ## Scan
-![scan](https://imgur.com/undefined)
+![scan](scan.png)
+
 ## C-Scan
-![cscan](https://imgur.com/RRQ25oV)
+![cscan](c-scan.png)
+
 ## C-Look
-![clook](https://imgur.com/BltehYh)
+![clook](c-look.png)
